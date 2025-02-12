@@ -83,9 +83,8 @@ button {
 
 
 /* Responsividade para telas pequenas */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     body {
-        /* height: 100vh; */
         margin: 0;
     }
 
@@ -96,6 +95,7 @@ button {
         margin: 0;
         display: flex;
         flex-direction: column;
+        justify-content: space-between;
     }
 
     .chat-content {
