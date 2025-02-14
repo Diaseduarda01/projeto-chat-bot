@@ -14,6 +14,10 @@ Este chatbot é simples, mas eficaz! Ele responde mensagens baseando-se em palav
 
 Fique de olho, pois em breve uma versão **Java** estará chegando! ☕🔥
 
+## 🚀 **Como Executar**
+
+**Interaja com o chatbot na interface** 💬
+[Clique Aqui](https://diaseduarda01.github.io/projeto-chat-bot/).
 
 
 ## 🎮 **Demonstração**
@@ -23,12 +27,6 @@ Fique de olho, pois em breve uma versão **Java** estará chegando! ☕🔥
 ![image](https://github.com/user-attachments/assets/017ef259-a454-4485-ba00-241533bcf815)
 
 
-
-
-## 🚀 **Como Executar**
-
-**Interaja com o chatbot na interface** 💬
-[Clique Aqui](https://diaseduarda01.github.io/projeto-chat-bot/).
 
 ## 🔮 **Futuro do Projeto**
 
