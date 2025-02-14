@@ -2,7 +2,6 @@
 
 Bem-vindo ao repositório do **Chatbot Simples**! 🚀 Este projeto foi desenvolvido em **JavaScript** como um desafio pessoal, explorando o mapeamento de mensagens sem o uso de árvores de decisão. Ainda que seja um projeto inicial, é um primeiro passo para algo maior! 💡
 
----
 
 ## 📝 **Descrição**
 
@@ -21,7 +20,6 @@ Fique de olho, pois em breve uma versão **Java** estará chegando! ☕🔥
 ![image](https://github.com/user-attachments/assets/ea2ea039-58cc-4702-b29a-b12e6b28b49c)
 
 
-### **Interface do Chatbot**  
 ![image](https://github.com/user-attachments/assets/017ef259-a454-4485-ba00-241533bcf815)
 
 
